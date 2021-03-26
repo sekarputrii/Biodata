@@ -1,12 +1,12 @@
 .bd
 {
-    background-color:rgb(107, 121, 89);
+    background-color:rgba(80, 52, 80, 0.781);
 }
 .img
 {
-    width: 150px;
+    width: 200px;
     object-fit:cover;
-    border-radius:50%;
+    border-radius:75%;
 }
 .biodata
 {
